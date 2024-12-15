@@ -1,6 +1,6 @@
 # frases_do_dia_app
 
-A new Flutter project.
+App simples que gera frases aleatorias ao clicar no botão.
 
 ## Getting Started
 
